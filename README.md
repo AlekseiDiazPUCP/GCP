@@ -1,2 +1,2 @@
 # GCP
-All code I have used for BigQuery Projects
+All code I have used for GCP Projects
